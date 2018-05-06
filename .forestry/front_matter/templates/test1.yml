@@ -1,4 +1,8 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  label: Test Field
+  name: test_field
+  default: Heading
